@@ -1,3 +1,16 @@
+# Steps
+1. Create Wireframe
+2. Create-react-app
+3. Clean up project
+4. Structure Application (barebone of the application)
+5. Create Header
+6. Create info Boxes
+7. Create Table
+8. Create Chart
+9. Create Map
+10. Styling (material UI and React-chartjs)
+11. Deploy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
